@@ -27,7 +27,8 @@ remove(a,n)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="682" height="140" alt="Screenshot 2025-12-27 130528" src="https://github.com/user-attachments/assets/a93b2887-6de9-4fc4-9468-2cfeea072b21" />
+
 
 
 ## Result
